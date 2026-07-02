@@ -1,2 +1,23 @@
-# HorizonTechX-python-internship
-A collection of Python projects developed during the Horizon TechX Python Internship, including Hangman Ultimate, Stock Portfolio Tracker Pro, and Astra AI ChatBot. These projects demonstrate Python fundamentals, file handling, data structures, and interactive console application development.
+# 🎮 Hangman Ultimate
+
+## Description
+Hangman Ultimate is a Python console game developed as part of the Horizon TechX Python Internship.
+
+## Features
+- Multiple Categories
+- Difficulty Levels
+- Hint System
+- Reveal Letter
+- ASCII Hangman
+- Score System
+- Leaderboard
+- Achievements
+- High Score Saving
+- Play Again Option
+
+## Technologies Used
+- Python
+- Random Module
+- File Handling
+- Loops
+- Functions
